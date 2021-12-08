@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'SYShow_Example' do
+  pod 'SYShow', :path => '../'
+
+  target 'SYShow_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
