@@ -1,15 +1,12 @@
 # SYShow
 
-[![CI Status](https://img.shields.io/travis/YangShi123/SYShow.svg?style=flat)](https://travis-ci.org/YangShi123/SYShow)
 [![Version](https://img.shields.io/cocoapods/v/SYShow.svg?style=flat)](https://cocoapods.org/pods/SYShow)
-[![License](https://img.shields.io/cocoapods/l/SYShow.svg?style=flat)](https://cocoapods.org/pods/SYShow)
-[![Platform](https://img.shields.io/cocoapods/p/SYShow.svg?style=flat)](https://cocoapods.org/pods/SYShow)
+
+用来弹出view，包括了3种常见方式
 
 ## Example
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
-
-## Requirements
 
 ## Installation
 
